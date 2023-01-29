@@ -13,4 +13,4 @@
 
 ![custom – 23](https://user-images.githubusercontent.com/42198187/102525177-ea5fa500-40bf-11eb-9451-93349fb3d48b.png)
 
-## Click [here](https://www.youtube.com/watch?v=T1hu96p2cok&list=PLkxod1PewIdzJ4mWcWIQvruUyEWNzZDDh) to watch complete YOUTUBE Series.
+
