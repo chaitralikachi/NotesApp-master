@@ -1,6 +1,6 @@
 # Notes App
 
-## In this series, we will make a complete *NOTES APP* from scratch.
+##*NOTES APP*
 
 ## Features of the App:-
 1) Creating layouts.
