@@ -11,6 +11,6 @@
 6) Deleting all Notes.
 7) Swipe to delete a single note.
 
-![custom – 23](https://user-images.githubusercontent.com/42198187/102525177-ea5fa500-40bf-11eb-9451-93349fb3d48b.png)
+
 
 
